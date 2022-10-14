@@ -10,7 +10,7 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #f2f2f2;
+  background:#c3c2c2;
   position: relative;
 }
 body::before{
